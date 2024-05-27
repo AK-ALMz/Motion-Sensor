@@ -10,3 +10,5 @@ B. LCD will display if the motion sensor is triggered.
 C. A button will be pressed to set the max distance of Ultrasonic (a "setup" button).
 
 Initial Commit: Missing Pushbutton & its functionality. Works otherwise
+
+"Pushbutton Added" Commit: Project is now complete.
